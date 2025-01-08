@@ -96,7 +96,7 @@ Pros:
 Cons:
 - the invisible text is visible when selected which might throw some people off
 - some screen readers might pick up transparent text
-- some bots and web scrapers might be configured to not ignore transparent and/or hidden text
+- some bots and web scrapers might be configured to ignore transparent and/or hidden text
 
 ### Hidden text
 
